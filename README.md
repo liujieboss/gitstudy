@@ -1,0 +1,2 @@
+# gitstudy
+usage of git
